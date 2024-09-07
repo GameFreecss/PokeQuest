@@ -106,6 +106,29 @@ article input::file-selector-button {
     background-color: var(--color-yellow);
 }
 
+.profile {
+    margin-bottom: 1.5rem;
+}
+
+.profile .trainer {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.profile .team {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.trainer img {
+    height: 32px;
+    max-height: 100%;
+    width: auto;
+    margin-right: .25rem;
+}
+
 .card {
     background-color: var(--color-white);
     padding: 5rem;
