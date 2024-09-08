@@ -14,8 +14,8 @@ Download your Pokemon Red, Blue or Yellow save file and generate your trainer pr
 
 This project is a personal endeavor created for fun and enjoyment. It’s a small project meant to explore and experiment with retro Pokemon games, without any commercial intent. The roadmap outlines potential future improvements and features, but it remains a lighthearted, recreational project above all.
 
-- [ ] Development of the User Interface
-- [ ] Download a save file
+- [x] Development of the User Interface
+- [x] Download a save file
 - [ ] Read data from save file
 - [ ] Display of the trainer profile
 - [ ] Pokedex display based on save file data
